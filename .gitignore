@@ -4,4 +4,4 @@ nb-configuration.xml
 .settings/
 .tern-project
 /target/
-build/
+/build/
